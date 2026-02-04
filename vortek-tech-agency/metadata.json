@@ -1,0 +1,9 @@
+
+{
+  "name": "Vortek Tech Agency",
+  "description": "A 9-page futuristic tech-forest themed website for Vortek, an agency specializing in web/mobile development, design, marketing, and AI solutions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
